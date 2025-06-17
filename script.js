@@ -1,6 +1,6 @@
 
 document.addEventListener("DOMContentLoaded", () => {
-  const text = `My Dearest Bunny, 💗
+  const text = `My Dearest Bunny💗💌
 
 As the sun rises, my first thought is you. You’re the warmth to my mornings, the calm to my chaos, and the reason I wake up smiling every day. 
 Just knowing that you exist in this world and that I have the honor of loving you fills my heart with peace and purpose.
